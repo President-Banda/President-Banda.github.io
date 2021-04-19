@@ -1,0 +1,23 @@
+{
+  "name": "personal.website",
+  "version": "1.0.0",
+  "description": "a personal website for Albert Banda",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/President-Banda/President-Banda.github.io.git"
+  },
+  "author": "Albert Banda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/President-Banda/President-Banda.github.io/issues"
+  },
+  "homepage": "https://github.com/President-Banda/President-Banda.github.io#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2"
+  }
+}
